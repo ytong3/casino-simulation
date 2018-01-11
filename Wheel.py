@@ -1,0 +1,1 @@
+'''Selects the outcomes that wins'''

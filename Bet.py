@@ -1,0 +1,1 @@
+'''hold the amount bet on a particular Outcome'''
