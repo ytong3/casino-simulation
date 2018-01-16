@@ -1,0 +1,2 @@
+class Bin(frozenset):
+    pass
